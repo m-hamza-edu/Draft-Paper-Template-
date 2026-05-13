@@ -1,10 +1,32 @@
+# 📄 Draft Paper Template
+
+A minimalist, production-ready LaTeX template designed for academic writing, featuring pre-configured packages and full Overleaf compatibility.
+
+---
+
 ## 🚀 Quick Start: Open in Overleaf
 
-The fastest way to use this template is through Overleaf. Click the button below to instantly clone this repository into a new Overleaf project:
+Click the button below to instantly clone this repository into a new Overleaf project:
 
 [![Open in Overleaf](https://shields.io)](https://overleaf.com)
 
-### How it works:
-1. Click the green badge above.
-2. Overleaf will automatically fetch the latest version of this template.
-3. Start writing immediately in your browser!
+---
+
+## ✨ Features
+
+* **Pre-configured Preamble:** Essential packages included (amsmath, graphicx).
+* **Easy Bibliography:** Ready for `biblatex`.
+* **Zero-Config:** Optimized for cloud compiling.
+
+---
+
+## 🛠️ Local Usage
+
+Clone and compile:
+```bash
+git clone https://github.com
+```
+
+## 📄 License
+
+This template is available under the [MIT License](https://opensource.org).
